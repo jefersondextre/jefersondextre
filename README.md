@@ -12,6 +12,7 @@ Puedes encontrarme en los siguientes plataformas digitales:
   - [Instagram](https://www.instagram.com/jefersondextre_jadex/?hl=es-la "Instagram personal")
 
 
+
 <!--
 **jefersondextre/jefersondextre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
