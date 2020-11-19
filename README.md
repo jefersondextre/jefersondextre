@@ -1,5 +1,3 @@
-![imagen](https://vsco.co/jadex20/media/5fb67c073619e73fdf000001)
-
 
 ### 👋 Hola Te cuento algo de mi .. 
 Considero ser una persona honrada que valora la ética profesional, principios y valores que resultan de ser un hombre temeroso de Dios. Me encuentro esforzándome a fin de ver mis aspiraciones y metas realizadas. Una de las cuales veo cumplidas al estar dedicando mi tiempo a la mejora continua de mis skills como desarrollador frontend en la realización de proyectos personales en javascript vanila expuestos en esta plataforma.
